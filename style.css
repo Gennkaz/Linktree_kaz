@@ -11,12 +11,11 @@ html {
     width: 500px;
     margin: 0 auto;
     background: red;
-    height: 100vh;
+    height: 500px;
     background-image: url("kazz.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    overflow-x: none;
 
 }
 
